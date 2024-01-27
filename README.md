@@ -1,4 +1,4 @@
-<div style="background-color: #F3E8D8; padding: 20px;">
+![#f03c15]
 # Elizabeth Neary
 
 - **Student Number:** 20071724
@@ -35,4 +35,3 @@ In a competitive literary world dominated by established authors, BookMark-It re
 - [Demo Video](link-to-demo-video)
 - [GitHub Repo](link-to-github-repo)
 
-</div>
