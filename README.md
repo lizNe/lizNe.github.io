@@ -1,5 +1,3 @@
-![#F3E8D8]
-
 # Elizabeth Neary
 
 - **Student Number:** 20071724
@@ -34,6 +32,6 @@ In a competitive literary world dominated by established authors, BookMark-It re
 
 - [Poster](link-to-poster)
 - [Demo Video](link-to-demo-video)
-- [GitHub Repo](link-to-github-repo)
+- [GitHub Repo](https://github.com/lizNe/bookmark-it)
 
 

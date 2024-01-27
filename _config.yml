@@ -1,3 +1,4 @@
-theme: jekyll-theme-minimal
+theme: jekyll-new-theme
 title: BookMarkIt
 description: For the Showcase Entry Submission 1
+background_color: "#F3E8D8"
