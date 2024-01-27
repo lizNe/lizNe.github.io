@@ -1,6 +1,6 @@
 # Elizabeth Neary
 
-![Elizabeth Neary](link-to-image-with-plain-white-background.jpg)
+![Elizabeth Neary](\images\self.jpg)
 
 - **Student Number:** 20071724
 
