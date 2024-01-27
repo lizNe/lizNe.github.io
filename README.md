@@ -1,5 +1,7 @@
 # Elizabeth Neary
 
+![Elizabeth Neary](link-to-image-with-plain-white-background.jpg)
+
 - **Student Number:** 20071724
 
 ## Project Titles
@@ -8,7 +10,7 @@
    - BookMark-It: A Dyslexia-friendly platform empowering new authors to self-publish and promote their books.
 
 2. **Commercial Title:**
-   - "Your Journey, Your Words, Your Mark - BookMark-It!: Unleash Your Voice, Advertise Your Creativity, and Thrive in Inclusive Self-Publishing Empowerment"
+   - Your Journey, Your Words, Your Mark - BookMark-It!: Unleash Your Voice, Advertise Your Creativity, and Thrive in Inclusive Self-Publishing Empowerment.
 
 
 ## Project Description
@@ -22,11 +24,6 @@ Authors wield complete control, being able to edit their books and set the price
 
 In a competitive literary world dominated by established authors, BookMark-It recognizes the struggles faced by emerging authors, particularly those with learning difficulties. Traditional publishing can be daunting and costly, and existing platforms often take a substantial cut of authors' profits. BookMark-It aims to fill this gap by providing a solution tailored to the unique needs of dyslexic authors, offering a fair and supportive environment for their voices to be heard and their stories to thrive. It is not just a platform for self-publishing; it is a dynamic community that empowers dyslexic authors. From uploading and showcasing books to engaging in discussions about the intricacies of the publishing process, the platform goes above and beyond to address the specific needs of its users. It stands as a beacon of inclusivity in the literary world, ensuring that every voice, especially those with learning difficulties, can thrive.
 
-
-
-## Image
-
-![Your Name](link-to-image-with-plain-white-background.jpg)
 
 ## Project Landing Page
 
