@@ -1,8 +1,4 @@
-<div style="background-color: #f2f2f2; padding: 20px;">
-
-
-
-
+<div style="background-color: #F3E8D8; padding: 20px;">
 # Elizabeth Neary
 
 - **Student Number:** 20071724
