@@ -1,4 +1,7 @@
-# Elizabeth Neary
+
+<h1 align="center">Elizabeth Neary</h1>
+
+
 
 ![Elizabeth Neary](\images\self.jpg)
 
