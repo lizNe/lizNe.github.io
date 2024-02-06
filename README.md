@@ -1,7 +1,5 @@
 
-<h1 align="center">Elizabeth Neary</h1>
-
-<div align="center">
+# Elizabeth Neary
 
 ![Elizabeth Neary](\images\self.jpg)
 
@@ -33,6 +31,6 @@ In a competitive literary world dominated by established authors, BookMark-It re
 - [Demo Video](link-to-demo-video)
 - [GitHub Repo](https://github.com/lizNe/bookmark-it)
 
-</div>
+
 
 
