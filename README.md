@@ -16,7 +16,7 @@
 
 ## Project Description
 
-BookMark-It is a dyslexia friendly web-platform tailored for new authors, providing a hub for self-publishing, personal profile creation, book promotion, and a partaking in insightful discussions with fellow authors fostering a collaborative environment. Here, authors have a platform to upload their work and 100% of the profits flow back to the authors, allowing them to reap the rewards of their hard work. The platform is designed to be dyslexia-friendly and accessible for all users and authors with learning disabilities. Users can delve into free PDF previews of books, exploring the content before deciding to purchase. It will give authors a chance to establish their identity, despite the hurdles of traditional publishing.
+BookMark-It: Revolutionizing the publishing scene for new authors, this dyslexia-friendly web platform is a comprehensive hub for self-publishing, personal profile creation, book promotion, and engaging discussions. Authors retain 100% of their profits, fostering a supportive and collaborative environment. With a focus on accessibility and availability to a wide range of books, BookMark-It empowers all users, especially those with learning disabilities. BookMark-It provides authors with the opportunity to establish their unique identity and overcome the challenges of traditional publishing.
 
 
 
