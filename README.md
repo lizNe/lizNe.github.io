@@ -25,7 +25,7 @@ BookMark-It is a dyslexia friendly web-platform tailored for new authors, provid
 
 ## Project Landing Page
 
-- [Poster](link-to-poster)
+- [Poster](![Final Year Project Poster](FinalYearProject.png))
 - [Demo Video](link-to-demo-video)
 - [GitHub Repo](https://github.com/lizNe/bookmark-it)
 
