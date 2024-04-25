@@ -26,7 +26,7 @@ BookMark-It: Revolutionizing the publishing scene for new authors, this dyslexia
 ## Project Landing Page
 
 - [Poster](FinalYearProject.png)
-- [Demo Video](https://vimeo.com/manage/videos/938723244)
+- [Demo Video](https://vimeo.com/938723244)
 - [GitHub Repo](https://github.com/lizNe/bookmark-it)
 
 
